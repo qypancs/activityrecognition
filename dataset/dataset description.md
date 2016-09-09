@@ -145,19 +145,29 @@
 **First party** 
 [1] Daniel Roggen, Alberto Calatroni, Mirco Rossi, Thomas Holleczek, Gerhard Tröster, Paul Lukowicz, Gerald Pirkl, David Bannach, Alois Ferscha, Jakob Doppler, Clemens Holzmann, Marc Kurz, Gerald Holl, Ricardo Chavarriaga, Hesam Sagha, Hamidreza Bayati, and José del R. Millán. "[Collecting complex activity data sets in highly rich networked sensor environments](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Collecting_complex_activity_datasets_in_highly_ric.pdf)" In Seventh International Conference on Networked Sensing Systems (INSS’10), Kassel, Germany, 6 2010. 
 描述了opportunity数据集，并对其进行评估
+
 [2] Hesam Sagha, Sundara Tejaswi Digumarti, José del R. Millán, Ricardo Chavarriaga, Alberto Calatroni, Daniel Roggen, Gerhard Tröster. [Benchmarking classification techniques using the Opportunity human activity dataset](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Benchmarking_classification_techniques_using_the_O.pdf). IEEE International Conference on Systems, Man, and Cybernetics, Anchorage, AK, USA, October 9-12, 2011 
 对数据集用不同分类器进行测试
+
 [3] R. Chavarriaga et al. [Ensemble creation and reconfiguration for activity recognition: An information theoretic approach](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Ensemble%20creation%20and%20reconfiguration%20for%20activity%20recognition%20An%20information%20theoretic%20approach.pdf). IEEE Conf Systems, Man, and Cybernetics (SMC), 2011 
 在数据集上使用多种分类器集成的方法来进行行为识别预测
+
 [4] H. Sagha et al. [Detecting anomalies to improve classification performance in an opportunistic sensor network](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Detecting%20anomalies%20to%20improve%20classification%20performance%20in%20an%20opportunistic%20sensor%20network.pdf), 7th IEEE International Workshop on Sensor Networks and Systems for Pervasive Computing (PerSens), 2011. 
 用两种数据集将不同的传感器与不同的分类器进行融合从而实现行为识别
+
 [5] A. Calatroni et al., [Automatic transfer of activity recognition capabilities between body-worn motion sensors: Training newcomers to recognize locomotion](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Camera_Ready_INSS_Calatroni.pdf), 8th International Conference on Networked Sensing Systems (INSS), 2011 
 用三种不同的数据集（SIMPROB,ADL,KID）分别进行训练，目的是协助专家进行临床检测
+
 [6] M. Kurz et al. [Dynamic Quantification of Activity Recognition Capabilities in Opportunistic Systems](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Dynamic%20Quantification%20of%20Activity%20Recognition.pdf). Fourth Conference on Context Awareness for Proactive Systems, 2011 
+
 [7] H. Sagha et al. [Detecting and rectifying anomalies in Opportunistic sensor networks](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Detecting%20and%20rectifying%20anomalies%20in%20Opportunistic%20sensor%20networks.pdf). International Conference on Body Sensor Networks (BSN), 2011 
+
 [8] R. Chavarriaga et al. [Robust activity recognition for assistive technologies: Benchmarking ML techniques](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Robust%20activity%20recognition%20for%20assistive%20technologies.pdf), Workshop on Machine Learning for Assistive Technologies at the 24th Annual Conference on Neural Information Processing Systems (NIPS), 2010. 
+
 [9] P. Lukowicz et al. [Recording a complex, multi modal activity data set for context recognition 1st Workshop on Context-Systems Design](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Recording%20a%20Complex%2C%20Multi%20Modal%20Activity%20Data%20Set%20for%20Context.pdf), Evaluation and Optimisation at ARCS, 2010, 2010 
+
 [10] R. Chavarriaga, H. Sagha, A. Calatroni, S. Digumarti, G. Tröster, J. del R. Millán, D. Roggen. [The Opportunity challenge: A benchmark database for on-body sensor-based activity recognition](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/A%20benchmark%20database%20for%20on-body%20sensor-based%20activity%20recognition%20.pdf), Pattern Recognition Letters, 2013 
+
 [11] L.-V. Nguyen-Dinh, D. Roggen, A. Calatroni, G. Tröster. [Improving online gesture recognition with template matching methods in accelerometer data](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Improving%20online%20gesture%20recognition%20with%20template%20matching%20methods%20in%20accelerometer%20data.pdf), Proc 12th Int Conf on Intelligent Systems Design and Applications, 2012 
 在数据集上使用LCSS算法进行在线行为识别，并且与DTW算法进行比较
 
@@ -166,8 +176,11 @@ Here are a few of the papers from third parties using the OPPORTUNITY dataset:
 
 [100] T. Plötz, N. Y. Hammerla, P. Olivier. [Feature Learning for Activity Recognition in Ubiquitous Computing](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Feature%20Learning%20for%20Activity%20Recognition%20in%20Ubiquitous%20Computing.pdf), IJCAI, 2011 
 欲用普适方法解决行为识别问题，使用特征学习解决特征提取方法的缺失，其中使用了大量数据集，包括opportunity数据集
+
 [101] A. Manzoor et al., [Identifying Important Action Primitives for High Level Activity Recognition](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Identifying%20Important%20Action%20Primitives%20for%20High%20Level%20Activity%20Recognition.pdf), Proc. European Conference on Smart Sensing and Context (EuroSSC), 2010 
+
 [102] T. Ploetz, N. Hammerla, A. Rozga, A. Reavis, N. Call, G. Abowd. [Automatic Assessment of Problem Behavior in Individuals with Developmental Disabilities](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Automatic%20Assessment%20of%20Problem%20Behavior%20in%20Individuals%20with%20Developmental%20Disabilities%20.pdf). Proc. 14th Int Conf on Ubiquitous Computing, 2012. 
+
 [103] D. Gordon, J. Czerny, M. Beigl. [Activity Recognition for Creatures of Habit: Energy-Efficient Embedded Classification using Prediction](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Activity%20Recognition%20for%20Creatures%20of%20Habit.pdf). Personal and Ubiquitous Computing, 2013.
 
 
@@ -226,10 +239,12 @@ Here are a few of the papers from third parties using the OPPORTUNITY dataset:
 
 ####2.3引用此数据集的文章
 [1] K. Altun, B. Barshan, and O. Tunçel,
-``[Comparative study on classifying human activities with miniature inertial and magnetic sensors](https://github.com/jindongwang/activityrecognition/blob/master/dataset/UCI%20daily%20and%20sports%20dataset/Comparative%20study%20on%20classifying%20human%20activities%20with%20miniature%20inertial%20and%20magnetic%20sensors.pdf),'' Pattern Recognition, 43(10):3605-3620, October 2010.
+[Comparative study on classifying human activities with miniature inertial and magnetic sensors](https://github.com/jindongwang/activityrecognition/blob/master/dataset/UCI%20daily%20and%20sports%20dataset/Comparative%20study%20on%20classifying%20human%20activities%20with%20miniature%20inertial%20and%20magnetic%20sensors.pdf),Pattern Recognition, 43(10):3605-3620, October 2010.
 在同一个行为识别数据集上进行了多种机器学习算法的性能比较。
+
 [2] B. Barshan and M. C. Yüksek, ``[Recognizing daily and sports activities in two open source machine learning environments using body-worn sensor units](https://github.com/jindongwang/activityrecognition/blob/master/dataset/UCI%20daily%20and%20sports%20dataset/Recognizing%20daily%20and%20sports%20activities%20in%20two%20open%20source%20machine%20learning%20environments%20using%20body-worn%20sensor%20units.pdf),'' The Computer Journal, 57(11):1649--1667, November 2014.
 在数据上使用了不同的机器学习算法，GMMs的正确率最高，还比较了在传感器放置的不同位置以及不同的传感器时的分类效果。
+
 [3]K. Altun and B. Barshan,``[Human activity recognition using inertial/magnetic sensor units,'' Proceedings First International Workshop on Human Behavior Understanding ](https://github.com/jindongwang/activityrecognition/blob/master/dataset/UCI%20daily%20and%20sports%20dataset/Recognizing%20daily%20and%20sports%20activities%20in%20two%20open%20source%20machine%20learning%20environments%20using%20body-worn%20sensor%20units.pdf)(in conjunction with the 20th Int. Conf. on Pattern Recognition), 22 August 2010, Istanbul, Turkey,A. A. Salah, T. Gevers, N. Sebe, A. Vinciarelli (editors), HBU 2010, LNCS 6219, pp.38-51, Springer: Berlin, Heidelberg, 2010.
 在同一个行为识别数据集上进行了多种机器学习算法的性能比较,在降维中除了使用PCA，还加入了SFFS，在小样本集中SFFS有更好的效果。
 
