@@ -144,7 +144,9 @@
 4.除去label列，数据一行有250列，其中第1列是时间戳，第2-243是数据列，244-250是label列。
 
 ####1.3引用此数据集的文章
+
 **First party** 
+
 [1] Daniel Roggen, Alberto Calatroni, Mirco Rossi, Thomas Holleczek, Gerhard Tröster, Paul Lukowicz, Gerald Pirkl, David Bannach, Alois Ferscha, Jakob Doppler, Clemens Holzmann, Marc Kurz, Gerald Holl, Ricardo Chavarriaga, Hesam Sagha, Hamidreza Bayati, and José del R. Millán. "[Collecting complex activity data sets in highly rich networked sensor environments](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Collecting_complex_activity_datasets_in_highly_ric.pdf)" In Seventh International Conference on Networked Sensing Systems (INSS’10), Kassel, Germany, 6 2010. 
 
 描述了opportunity数据集，并对其进行评估
@@ -154,6 +156,7 @@
 对数据集用不同分类器进行测试
 
 [3] R. Chavarriaga et al. [Ensemble creation and reconfiguration for activity recognition: An information theoretic approach](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Ensemble%20creation%20and%20reconfiguration%20for%20activity%20recognition%20An%20information%20theoretic%20approach.pdf). IEEE Conf Systems, Man, and Cybernetics (SMC), 2011 
+
 在数据集上使用多种分类器集成的方法来进行行为识别预测
 
 [4] H. Sagha et al. [Detecting anomalies to improve classification performance in an opportunistic sensor network](https://github.com/jindongwang/activityrecognition/blob/master/dataset/Opportunity/Detecting%20anomalies%20to%20improve%20classification%20performance%20in%20an%20opportunistic%20sensor%20network.pdf), 7th IEEE International Workshop on Sensor Networks and Systems for Pervasive Computing (PerSens), 2011. 
@@ -266,9 +269,8 @@ Here are a few of the papers from third parties using the OPPORTUNITY dataset:
 
 3.处理后的数据（/data/processed文件夹及UCIActDB.db文件）：
 
-（1）一种保存方式是sqlite数据库，见UCIActDB.db文件
-
-	包含p1-p8这8张表表示8个人的数据（自增的时间id+45列传感器数据+最后一列label表示行为id）及activitylabels这张表表示行为id和行为的对应表；
+（1）一种保存方式是sqlite数据库，见UCIActDB.db文件，
+包含p1-p8这8张表表示8个人的数据（自增的时间id+45列传感器数据+最后一列label表示行为id）及activitylabels这张表表示行为id和行为的对应表；
 	
 （2）另一种方式是每个人的txt文件（p1-p8.txt），与数据库是一一对应的。
 
