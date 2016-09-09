@@ -2,15 +2,15 @@
 
 
 - [行为识别公开数据集整理](#行为识别公开数据集整理)
-    - [1.Opportunity](#1.opportunity)
+    - [1.Opportunity](#1.Opportunity)
         - [1.1网址与下载](#1.1网址与下载)
         - [1.2描述](#1.2描述)
         - [1.3引用此数据集的文章](#1.3引用此数据集的文章)
-    - [2.UCI daily and sports dataset](#2.uci-daily-and-sports-dataset)
+    - [2.UCI daily and sports dataset](#2.UCI daily and sports dataset)
         - [2.1网址与下载](#2.1网址与下载)
         - [2.2描述](#2.2描述)
         - [2.3引用此数据集的文章](#2.3引用此数据集的文章)
-    - [3.Activity recognition from single chest-mounted accelerometer data set](#3.activity-recognition-from-single-chest-mounted-accelerometer-data-set)
+    - [3.Activity recognition from single chest-mounted accelerometer data set](#3.Activity recognition from single chest-mounted accelerometer data set)
         - [3.1网址与下载](#3.1网址与下载)
         - [3.2描述](#3.2描述)
         - [3.3引用此数据集的文章](#3.3引用此数据集的文章)
